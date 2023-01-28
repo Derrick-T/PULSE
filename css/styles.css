@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: ;
+    font-family: "Josefin+Sans";
+    color:aliceblue;
+ }
+
+
+body{
+    
+    background-size: cover;
+    background-position-y: 200px;
+    box-sizing: border-box;
+        background-color: rgb(4, 56, 56);
+        
+ }
+
+ .nav-bar{
+   background-color: rgba(92, 84, 84, 0.685);
+   border-radius: 10px;
+  font-family: 'Yeseva One', sans;
+ 
+ 
+ border-radius: 30px;
+ font-weight: bold;
+background-color: rgb(85, 84, 82);
+ color: black;
+
+ /* ul>li code below*/
+ 
+ }
+
+
+
+.nav-bar:hover {
+   
+ 
+ border-radius: 10px; 
+}
+
+
+#logo{
+
+   height: 40px;
+   margin:0px;
+   image-rendering: auto;
+   display: inline-flex;
+   border-radius: 10px;
+   
+    }
+
+ul li{
+   display:inline-flex;
+    width: 100px;
+    margin: 15px;
+    padding: 15px;
+    align-items: center;
+
+   
+
+    transform-origin: bottom right 60px;
+
+    
+ }
+
+ ul li a{
+    text-decoration: none;
+    color: aliceblue;
+
+ }
+
+ .Active, ul li a:hover{
+   
+background-color: rgba(255, 209, 6, 0.945);
+border-radius: 4px;
+width: 50px;
+height: 10px;
+background-color: rgb(196, 168, 8);
+/*
+border: 2px solid firebrick;
+*/
+border-radius: 30px;
+  pointer-events: visible;
+ }
+
+.paragraph-1 h3{
+   color: rgb(249, 249, 250);
+   
+   background-color: rgb(6, 76, 97);
+   
+   margin: 15px;
+   padding: 20px;
+   font-size: 40px;
+   text-align : center;
+ }
+
+
+ plots
+
+.brother-bear{
+   height: 22%;
+}
+
+.dl-pussinboots{
+background-color: black;
+}
+
+.img{
+   margin: 10px;
+   width: 30%;
+   padding
+   : 20px;
+   border-radius: 10px;
+}
+
+.puss-plot{
+   
+}
+
+aside{
+text-align: center;
+}
+.aside{ 
+   padding:10px;
+   margin: 20px;
+   border-color: rgb(194, 161, 54);
+   border: 10px;
+   align-items: right;
+}
+
+.puss2{
+   width: 40%;
+   border-radius: 20px;
+}
